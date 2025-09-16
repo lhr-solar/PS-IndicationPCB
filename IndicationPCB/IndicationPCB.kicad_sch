@@ -3498,7 +3498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UTSVT_Logos:UTSVT_Logo_Symbol"
+		(property "Footprint" "UTSVT_Logos:LHRs_LOGO"
 			(at 76.2 83.185 0)
 			(effects
 				(font
