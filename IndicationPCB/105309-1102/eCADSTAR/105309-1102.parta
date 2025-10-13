@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_911772"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-19-15:13:36)
+    (utime 2025-01-09-11:35:02)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "105309-1102")
+)
+
+
+(pinAssign "ECS_911772"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-19-15:13:36)
+    (utime 2025-01-09-11:35:02)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_911772")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "105309-1102")
+)
+
+
+(part "105309-1102"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-19-15:13:36)
+    (utime 2025-01-09-11:35:02)
+    (packageRef "105309-1102")
+    (pinAssignRef "ECS_911772")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Headers & Wire Housings NANOFIT HDR VT SGL KNK 2CKT TIN BLK")
+    (property "Mouser_Part_Number" "538-105309-1102")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/105309-1102?qs=5aG0NVq1C4zzTOxEjLJqtg%3D%3D")
+    (property "Manufacturer_Name" "Molex")
+    (property "Manufacturer_Part_Number" "105309-1102")
+    (property "Datasheet_Link" "http://www.molex.com/pdm_docs/sd/1053091102_sd.pdf")
+    (property "compAreaTopHeight" 10.51)
+)
+
+
