@@ -6,7 +6,7 @@ WS2812B,LED3,WS2812B,,1
 1uF,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
 WS2812B,LED4,WS2812B,,1
 1 uF,C4,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
-Conn_01x03,J1,Molex_Nano-Fit_105313-xx03_1x03_P2.50mm_Horizontal,,1
+Conn_01x03,J1,Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical,,1
 1uF,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
 1uF,C5,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
 WS2812B,LED5,WS2812B,,1
