@@ -1,13 +1,24 @@
-Comment,Designator,Footprint,LCSC,Quantity
-WS2812B,LED2,WS2812B,,1
-WS2812B,LED1,WS2812B,,1
-1uF,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
-WS2812B,LED3,WS2812B,,1
-1uF,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
-WS2812B,LED4,WS2812B,,1
-1 uF,C4,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
-Conn_01x03,J1,Molex_Nano-Fit_105313-xx03_1x03_P2.50mm_Horizontal,,1
-1uF,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
-1uF,C5,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
-WS2812B,LED5,WS2812B,,1
-Dr. Hallock,LOGO1,LHRs_LOGO,,1
+Description (Customer #),Quantity,P/N,,,,,,,,,
+WS2812B  Adressable LEDs ,5,WS2812B,,,,,,,,,
+Capacitor 1uF 0603,5,MLASU168SB5105KTNA01,,,,,,,,,
+Molex Nanofit 1x3 Horizontal,1,105313-1103,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
